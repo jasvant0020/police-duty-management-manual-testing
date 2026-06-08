@@ -1,1 +1,7 @@
-
+| Scenario ID | Module          | Feature     | Scenario Description                  |
+| ----------- | --------------- | ----------- | ------------------------------------- |
+| TS-001      | Authentication  | Login       | Verify login with valid credentials   |
+| TS-002      | Authentication  | Login       | Verify login with invalid credentials |
+| TS-003      | Authentication  | Logout      | Verify user logout                    |
+| TS-004      | User Management | Create User | Verify admin can create user          |
+| TS-005      | User Management | Edit User   | Verify admin can edit user            |
