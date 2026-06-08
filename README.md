@@ -5,7 +5,7 @@
 
 # Police Duty Management System 2.0 - QA Manual Testing
 
-## 📌 Overview
+## Overview
 This project demonstrates a complete **Manual QA Testing lifecycle** for a real-time Police Duty Management System including:
 
 - Requirement Analysis
@@ -19,7 +19,7 @@ This project demonstrates a complete **Manual QA Testing lifecycle** for a real-
 
 ---
 
-## 🧪 Modules Covered
+## Modules Covered
 
 - Authentication System
 - User Management
@@ -30,7 +30,7 @@ This project demonstrates a complete **Manual QA Testing lifecycle** for a real-
 
 ---
 
-## 🛠️ QA Deliverables
+## QA Deliverables
 
 - 01_Project_Overview.md  
 - 02_Requirement_Analysis.md  
@@ -44,7 +44,7 @@ This project demonstrates a complete **Manual QA Testing lifecycle** for a real-
 
 ---
 
-## 🎯 Key Highlights
+## Key Highlights
 
 - End-to-end manual testing lifecycle
 - Role-based security testing (RBAC)
@@ -55,7 +55,7 @@ This project demonstrates a complete **Manual QA Testing lifecycle** for a real-
 
 ---
 
-## 📊 Test Coverage Summary
+## Test Coverage Summary
 
 - Total Test Cases: 50+
 - Pass Rate: 98%
@@ -64,7 +64,7 @@ This project demonstrates a complete **Manual QA Testing lifecycle** for a real-
 
 ---
 
-## 🚀 Purpose of This Project
+## Purpose of This Project
 
 This project is created to demonstrate:
 - Real-world QA process understanding
@@ -74,5 +74,5 @@ This project is created to demonstrate:
 
 ---
 
-## 👨‍💻 Author
+## Author
 Jasvant
